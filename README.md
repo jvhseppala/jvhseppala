@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Joonas Seppälä.
+- I’m currently learning both web and software development for professional and private usage.
+- 📫 You can reach me at LinkedIn: https://www.linkedin.com/in/jvhseppala/
